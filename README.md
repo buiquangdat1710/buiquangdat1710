@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm QuangDat from PROPTIT</h1>
-<h3 align="center">Currently, I am a student studying computer science at PTIT and I plan to major in AI in the future.</h3>
+<h1 align="center">Hi 👋, I'm Dat from PROPTIT</h1>
+<h3 align="center">I study computer science at PTIT and I want to become an AI researcher in NLP.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 💬 Ask me about **C, C++, Data Structure and Algorithms**
+- 💬 Ask me about **Machine Learning, Deep Learning, NLP, LLMs, Reinforcement Learning**
 
 - 📫 How to reach me **buiquangdat1458@gmail.com**
 
