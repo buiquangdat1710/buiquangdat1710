@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dat from PROPTIT</h1>
-<h3 align="center">I study computer science at PTIT and I want to become an AI researcher in NLP.</h3>
+<h1 align="center">Hi 👋, I'm Dat from PROPTIT and NEURITON</h1>
+<h3 align="center">I study computer science at PTIT and I want to become an AI researcher in NLP and CV.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
