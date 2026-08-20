@@ -1,293 +1,422 @@
+<!--
+═══════════════════════════════════════════════════════════════════════
+  BUI QUANG DAT — GitHub Profile README
+  Theme: "Neural Aurora"  ·  #0D1117 → #4C1D95 → #06B6D4
+  👉 Search "TODO" for the few things only you can fill in.
+═══════════════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a192f,60:112240,100:1a1a2e&height=280&section=header&text=Bui%20Quang%20Dat&fontSize=72&fontColor=64ffda&animation=fadeIn&fontAlignY=42&desc=AI%20Researcher%20%E2%80%A2%20NLP%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20LLMs&descAlignY=62&descSize=20&descColor=8892b0&stroke=64ffda&strokeWidth=1" width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,65:4c1d95,100:06b6d4&height=230&section=header&text=Bui%20Quang%20Dat&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%C2%B7%20NLP%20%C2%B7%20LLMs%20%C2%B7%20Computer%20Vision&descAlignY=58&descSize=17&descColor=c4b5fd" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1200&color=64FFDA&center=true&vCenter=true&width=800&height=60&lines=Building+the+future+with+Artificial+Intelligence+%F0%9F%A7%A0;NLP+%7C+Computer+Vision+%7C+Deep+Learning+%7C+LLMs;Founder+of+NEURITON+AI+Research+Organization;PTIT+%C3%97+PROPTIT+%E2%80%94+Turning+Research+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=42&lines=Computer+Science+%40+PTIT%2C+Hanoi;Founder+%40+NEURITON+AI+Research+Organization;Fine-tuning+LLMs%2C+building+RAG+systems;Research+today.+Impact+tomorrow." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=buiquangdat1710&style=for-the-badge&color=0a192f&label=PROFILE+VIEWS&labelColor=64ffda" />
-&nbsp;
-<a href="https://github.com/buiquangdat1710?tab=followers">
-  <img src="https://img.shields.io/github/followers/buiquangdat1710?style=for-the-badge&color=0a192f&labelColor=64ffda&label=FOLLOWERS&logo=github" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20Research-0a192f?style=for-the-badge&labelColor=64ffda" />
+<a href="mailto:buiquangdat1458@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://huggingface.co/Dat1710"><img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-A78BFA?style=for-the-badge&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://aichronicle.org/"><img src="https://img.shields.io/badge/AI_Chronicle-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.facebook.com/neuriton"><img src="https://img.shields.io/badge/NEURITON-22D3EE?style=for-the-badge&logo=alwaysdata&logoColor=white&labelColor=0d1117"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=buiquangdat1710&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS&labelColor=0d1117"/>
+<a href="https://github.com/buiquangdat1710?tab=followers"><img src="https://img.shields.io/github/followers/buiquangdat1710?style=flat-square&color=8b5cf6&labelColor=0d1117&label=FOLLOWERS&logo=github&logoColor=a78bfa"/></a>
+<img src="https://img.shields.io/badge/STATUS-Open_to_research_collabs-06b6d4?style=flat-square&labelColor=0d1117"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════ 01 · ABOUT ══════════════════════════ -->
 
-<!-- ABOUT ME -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
-
-</div>
-
-<br/>
+## `01` &nbsp;About Me
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="54%" valign="top">
 
-```typescript
-const dat: AIResearcher = {
-  name     : "Bui Quang Dat",
-  location : "Hanoi, Vietnam 🇻🇳",
+```python
+class BuiQuangDat:
+    """AI Researcher · Hanoi, Vietnam 🇻🇳"""
 
-  education: {
-    university : "PTIT — Posts & Telecom",
-    major      : "Computer Science",
-    clubs      : ["PROPTIT", "NEURITON"]
-  },
+    def __init__(self):
+        self.education = "PTIT — Computer Science"
+        self.communities = ["PROPTIT", "NEURITON"]
 
-  research: [
-    "Natural Language Processing",
-    "Large Language Models (LLMs)",
-    "Computer Vision",
-    "Reinforcement Learning",
-    "Multimodal AI"
-  ],
+        self.research = [
+            "Natural Language Processing",
+            "Large Language Models",
+            "Computer Vision",
+            "Multimodal & Reinforcement Learning",
+        ]
 
-  founded  : "NEURITON 🏛️",
-  blog     : "aichronicle.org 📖",
-  models   : "huggingface.co/Dat1710 🤗",
+        self.building = "NEURITON 🏛️"
+        self.writing  = "aichronicle.org 📖"
+        self.shipping = "hf.co/Dat1710 🤗"
 
-  learning : ["Java", "Python", "Transformers"],
-  hobbies  : ["Rubik's Cube 🧊","Chess ♟️","Puzzles 🧩"],
-  contact  : "buiquangdat1458@gmail.com",
-  motto    : "Research today. Impact tomorrow."
-}
+        self.learning = ["Java", "RLHF", "Agentic AI"]
+        self.off_duty = ["Rubik's 🧊", "Chess ♟️"]
+
+    def motto(self) -> str:
+        return "Research today. Impact tomorrow."
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="320"/>
+<td width="46%" valign="top">
 
 <br/>
 
-| | |
+|  |  |
 |:---:|:---|
-| 🎓 | **PTIT** — Computer Science |
-| 🏛️ | Founder @ **NEURITON** |
-| 📖 | Author @ **AI Chronicle** |
-| 🤗 | Researcher @ **HuggingFace/Dat1710** |
-| 📍 | **Hanoi, Vietnam** |
-| 💬 | Open to **research collaborations** |
+| 🎓 | Computer Science @ **PTIT**, member of **PROPTIT** |
+| 🏛️ | Founder & Lead @ **NEURITON** AI Research Org |
+| 📖 | Research write-ups @ **AI Chronicle** |
+| 🤗 | Publishing models @ **HuggingFace / Dat1710** |
+| 🔬 | Currently deep in **LLM fine-tuning & RAG** |
+| 🌱 | Learning **RLHF** and **agentic systems** |
+| 🤝 | Open to **NLP / CV research collaborations** |
+| 📫 | **buiquangdat1458@gmail.com** |
+
+<br/>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
-
-### 🧠 Skills Proficiency
-
-| Skill | Level |
-|:---|:---|
-| 🐍 Python | `████████████████████` 95% |
-| 🤖 Machine Learning | `███████████████████░` 90% |
-| 💬 NLP / LLMs | `██████████████████░░` 85% |
-| 👁️ Computer Vision | `█████████████████░░░` 80% |
-| ☕ Java | `█████████████░░░░░░░` 60% |
-| 🎮 Reinforcement Learning | `████████████░░░░░░░░` 55% |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- NEURITON -->
-<div align="center">
-
-## 🏛️ NEURITON — AI Research Organization
-
-> *Founded & led by Bui Quang Dat — Vietnam's emerging AI research community*
-
-[![Neuriton](https://img.shields.io/badge/NEURITON-AI%20Research%20Organization-0a192f?style=for-the-badge&logo=academia&logoColor=64ffda&labelColor=112240)](https://www.facebook.com/neuriton)
-&nbsp;
-[![AI Chronicle](https://img.shields.io/badge/AI%20Chronicle-Research%20Blog-0a192f?style=for-the-badge&logo=bookstack&logoColor=64ffda&labelColor=112240)](https://aichronicle.org/)
-
-*Advancing AI research and knowledge-sharing in Vietnam* 🇻🇳
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════ 02 · RESEARCH ══════════════════════════ -->
 
-<br/>
+## `02` &nbsp;Research Interests
 
-<!-- RESEARCH INTERESTS -->
 <div align="center">
-
-## 🔬 Research Interests
-
 <table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/><br/>
-      <b>NLP & LLMs</b><br/><br/>
-      <sub>Transformers · RAG · Fine-tuning<br/>Text Generation · Dialogue Systems</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48"/><br/><br/>
-      <b>Computer Vision</b><br/><br/>
-      <sub>Detection · Segmentation<br/>GANs · Diffusion Models</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><br/>
-      <b>Deep Learning</b><br/><br/>
-      <sub>CNN · Attention · BERT<br/>Multimodal Architectures</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/><br/><br/>
-      <b>Reinforcement Learning</b><br/><br/>
-      <sub>Policy Gradient · DQN<br/>RLHF · Multi-Agent RL</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="205">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <br/><br/><b>NLP & LLMs</b><br/><br/>
+  <sub>Transformers · RAG<br/>Fine-tuning · LoRA / PEFT<br/>Dialogue & Evaluation</sub>
+</td>
+<td align="center" width="205">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <br/><br/><b>Computer Vision</b><br/><br/>
+  <sub>Detection · Segmentation<br/>GANs · Diffusion<br/>Vision-Language Models</sub>
+</td>
+<td align="center" width="205">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <br/><br/><b>Deep Learning</b><br/><br/>
+  <sub>CNN · Attention · BERT<br/>Representation Learning<br/>Multimodal Fusion</sub>
+</td>
+<td align="center" width="205">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <br/><br/><b>Reinforcement Learning</b><br/><br/>
+  <sub>Policy Gradient · DQN<br/>RLHF · Reward Modeling<br/>Multi-Agent RL</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ 03 · WORK ══════════════════════════ -->
+
+## `03` &nbsp;Featured Work
+
+<!--
+  TODO ─ Replace the three rows below with your real projects.
+  These are hand-written cards on purpose: they NEVER break,
+  unlike the github-readme-stats pin cards (which rate-limit).
+-->
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 &nbsp;Project One
+
+> One line on what problem it solves and the headline result.
+
+`Python` `PyTorch` `Transformers`
+
+[**→ Repository**](https://github.com/buiquangdat1710)
+
+</td>
+<td width="33%" valign="top">
+
+### 👁️ &nbsp;Project Two
+
+> One line on what problem it solves and the headline result.
+
+`Python` `OpenCV` `YOLO`
+
+[**→ Repository**](https://github.com/buiquangdat1710)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 &nbsp;Project Three
+
+> One line on what problem it solves and the headline result.
+
+`LangChain` `RAG` `FAISS`
+
+[**→ Repository**](https://github.com/buiquangdat1710)
+
+</td>
+</tr>
 </table>
 
+<details>
+<summary><b>&nbsp;🤗 &nbsp;Models & Publications</b></summary>
+
+<br/>
+
+| Work | Type | Description | Link |
+|:---|:---:|:---|:---:|
+| `model-name` | Model | What it does, in one sentence | [🤗](https://huggingface.co/Dat1710) |
+| `Article title` | Blog | Key idea in one sentence | [📖](https://aichronicle.org/) |
+| `Paper title` | Paper | Venue / year · main contribution | [📄](https://github.com/buiquangdat1710) |
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════ 04 · NEURITON ══════════════════════════ -->
+
+## `04` &nbsp;NEURITON — AI Research Organization
+
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+
+> **NEURITON** is a student-led AI research community I founded in Hanoi.
+> We run reading groups, reproduce papers, and publish accessible research
+> write-ups to help grow Vietnam's AI research ecosystem. 🇻🇳
+
+**What we do**
+
+- 📄 &nbsp;Paper reading & reproduction — NLP · CV · RL
+- 🧪 &nbsp;Collaborative research projects and open-source releases
+- ✍️ &nbsp;Knowledge-sharing through **[AI Chronicle](https://aichronicle.org/)**
+- 🎓 &nbsp;Mentoring students taking their first steps into research
+
+</td>
+<td width="38%" valign="top" align="center">
 
 <br/>
 
-<!-- TECH STACK -->
+[![Neuriton](https://img.shields.io/badge/NEURITON-Join_the_community-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://www.facebook.com/neuriton)
+
+[![AI Chronicle](https://img.shields.io/badge/AI_CHRONICLE-Read_the_blog-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117)](https://aichronicle.org/)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-## ⚡ Tech Stack
-
-### 🤖 AI · Machine Learning · Deep Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════ 05 · STACK ══════════════════════════ -->
 
-<br/>
+## `05` &nbsp;Tech Stack
 
-<!-- GITHUB STATS -->
 <div align="center">
 
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=buiquangdat1710&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=8892b0&ring_color=64ffda&include_all_commits=true&count_private=true" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiquangdat1710&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&langs_count=8" height="185"/>
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buiquangdat1710&theme=transparent&hide_border=true&background=0d1117&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
+**AI · Machine Learning · Deep Learning**
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" height="52"/>
+<br/>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/%F0%9F%A4%97_Transformers-FFD21E?style=flat-square&labelColor=0d1117&color=0d1117"/></a>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=4dabcf&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buiquangdat1710&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area_color=64ffda&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=py,java,cpp,c&theme=dark" height="52"/>
+
+<br/><br/>
+
+**Tools & Environments**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,unity,bash,latex&theme=dark" height="52"/>
+<br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black&labelColor=0d1117"/>
+
+<br/>
+
+</div>
+
+<details>
+<summary><b>&nbsp;🎯 &nbsp;Where I actually spend my time</b></summary>
+
+<br/>
+
+| Area | Depth | What that means in practice |
+|:---|:---|:---|
+| **Python & PyTorch** | `▰▰▰▰▰` | Daily driver — every experiment starts here |
+| **NLP / LLMs** | `▰▰▰▰▱` | Fine-tuning, RAG pipelines, evaluation harnesses |
+| **Machine Learning** | `▰▰▰▰▱` | Classical ML + end-to-end deep learning pipelines |
+| **Computer Vision** | `▰▰▰▱▱` | Detection, segmentation, generative models |
+| **Reinforcement Learning** | `▰▰▱▱▱` | Actively learning — RLHF and policy methods |
+| **Java** | `▰▰▱▱▱` | OOP coursework and side projects |
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- ══════════════════════════ 06 · STATS ══════════════════════════ -->
 
-<br/>
+## `06` &nbsp;GitHub Analytics
 
-
-<!-- CONNECT -->
 <div align="center">
 
-## 🌐 Find Me Around the Web
+<!-- Snake animation — served from YOUR OWN repo, so it can never rate-limit.
+     Requires .github/workflows/snake.yml (included alongside this file). -->
+<img src="https://raw.githubusercontent.com/buiquangdat1710/buiquangdat1710/output/snake-dark.svg" width="100%" alt="Contribution snake"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buiquangdat1710&theme=github_dark" width="98%"/>
 
 <br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buiquangdat1710&theme=github_dark" width="41%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buiquangdat1710&theme=github_dark" width="41%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=buiquangdat1710&theme=github_dark" width="41%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buiquangdat1710&theme=github_dark&utcOffset=7" width="41%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buiquangdat1710&bg_color=0d1117&color=c4b5fd&line=8b5cf6&point=06b6d4&area_color=8b5cf6&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%"/>
+
+</div>
+
+<details>
+<summary><b>&nbsp;📊 &nbsp;Classic stat cards</b> <sub>(needs a self-hosted instance — see note)</sub></summary>
+
+<br/>
+
+<!--
+  TODO ─ The public github-readme-stats.vercel.app instance is permanently
+  rate-limited, which is why these render as broken images. Fix in ~5 minutes:
+
+    1. Go to  https://github.com/anuraghazra/github-readme-stats
+    2. Click "Deploy to Vercel", sign in with GitHub
+    3. Add env var  PAT_1  =  a GitHub personal access token (no scopes needed)
+    4. Replace "github-readme-stats.vercel.app" below with YOUR-APP.vercel.app
+
+  Until then, the cards above already cover the same ground.
+-->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=buiquangdat1710&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=94a3b8&ring_color=8b5cf6&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buiquangdat1710&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8&langs_count=8" height="175"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=buiquangdat1710&theme=transparent&hide_border=true&background=0d1117&ring=8b5cf6&fire=06b6d4&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" width="58%"/>
+
+</div>
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:8b5cf6,50:a78bfa,75:06b6d4,100:0d1117&height=3&section=header" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ 07 · CONNECT ══════════════════════════ -->
+
+## `07` &nbsp;Let's Connect
+
+<div align="center">
+
+<br/>
+
+I'm always happy to talk about **research ideas, collaborations, or open-source projects** —
+whether it's a paper worth reproducing or a model worth building.
+
+<br/><br/>
 
 <a href="mailto:buiquangdat1458@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-buiquangdat1458-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Gmail-buiquangdat1458-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
-<a href="https://fb.com/buiquangdat2004">
-  <img src="https://img.shields.io/badge/Facebook-Bui%20Quang%20Dat-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e"/>
-</a>
-
-<br/><br/>
-
 <a href="https://huggingface.co/Dat1710">
-  <img src="https://img.shields.io/badge/🤗%20HuggingFace-Dat1710-FFD21E?style=for-the-badge&logoColor=black&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-Dat1710-FFD21E?style=for-the-badge&labelColor=0d1117"/>
 </a>
-&nbsp;
 <a href="https://aichronicle.org/">
-  <img src="https://img.shields.io/badge/📖%20AI%20Chronicle-My%20Research%20Blog-64ffda?style=for-the-badge&logoColor=black&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/Blog-AI_Chronicle-06B6D4?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117"/>
 </a>
-&nbsp;
+
+<br/>
+
+<a href="https://fb.com/buiquangdat2004">
+  <img src="https://img.shields.io/badge/Facebook-Bui_Quang_Dat-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117"/>
+</a>
 <a href="https://www.facebook.com/neuriton">
-  <img src="https://img.shields.io/badge/🏛️%20NEURITON-AI%20Research%20Org-a78bfa?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/badge/NEURITON-AI_Research_Org-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117"/>
 </a>
+
+<!-- TODO ─ Uncomment once you have these. For a researcher, Scholar and
+     LinkedIn are usually the first two links people look for.
+<a href="https://linkedin.com/in/USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Bui_Quang_Dat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+<a href="https://scholar.google.com/citations?user=ID">
+  <img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117"/>
+</a>
+-->
 
 <br/><br/>
 
-<!-- Pacman contribution animation -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="0" height="0"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
 
-[![Dat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=buiquangdat1710&bg_color=0d1117&color=64ffda&line=64ffda&point=64ffda&area=true&hide_border=true&custom_title=All-Time%20Contribution%20Timeline)](https://github.com/buiquangdat1710)
+<br/><br/>
 
-<br/>
+<sub><i>"The goal of AI is not to replace human intelligence, but to amplify it."</i></sub>
 
----
-
-<sub>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="18">
-  &nbsp;
-  <i>"The goal of AI is not to replace human intelligence, but to amplify it."</i>
-  &nbsp;
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="18">
-</sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,70:112240,100:1a1a2e&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=64ffda&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:4c1d95,65:1e1b4b,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%"/>
 
 </div>
