@@ -139,44 +139,62 @@ class BuiQuangDat:
 ## `03` &nbsp;Featured Work
 
 <!--
-  TODO ─ Replace the three rows below with your real projects.
-  These are hand-written cards on purpose: they NEVER break,
-  unlike the github-readme-stats pin cards (which rate-limit).
+  Hand-written cards on purpose: they never break, unlike the
+  github-readme-stats pin cards (which rate-limit).
 -->
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧠 &nbsp;Project One
+### 🧮 &nbsp;Nexus-1.5B
 
-> One line on what problem it solves and the headline result.
+**Length-Penalized Reward Optimization for mathematical reasoning.**
 
-`Python` `PyTorch` `Transformers`
+An RL fine-tune of `Qwen2.5-Math-1.5B-Instruct` using **LPRO** — group-wise
+rank advantages plus token-level clipped importance sampling, with an explicit
+penalty on response verbosity to stop reward hacking and keep reasoning concise.
+Supports both full fine-tuning and LoRA, so it trains on a single Colab GPU.
 
-[**→ Repository**](https://github.com/buiquangdat1710)
+| Benchmark | Base | **Nexus** | Δ |
+|:---|:---:|:---:|:---:|
+| MATH-500 | 75.8 | **80.2** | `+4.4` |
+| MATH + TIR | 80.0 | **84.0** | `+4.0` |
+| MMLU STEM | 57.5 | **60.3** | `+2.8` |
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GRPO_/_RL-8B5CF6?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LoRA-06B6D4?style=flat-square&labelColor=0d1117"/>
+
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/buiquangdat1710/nexus-1.5b)
+[![Model](https://img.shields.io/badge/%F0%9F%A4%97_Model-FFD21E?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/Dat1710/nexus-1.5b)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 👁️ &nbsp;Project Two
+### 🧠 &nbsp;titans-torch
 
-> One line on what problem it solves and the headline result.
+**A PyTorch implementation of _"Titans: Learning to Memorize at Test Time."_**
 
-`Python` `OpenCV` `YOLO`
+Faithful reproduction of [arXiv:2501.00663](https://arxiv.org/abs/2501.00663) —
+a hybrid architecture pairing short-term attention with a **Neural Long-Term
+Memory** module: a learnable MLP updated at test time through inner-loop
+gradient descent, letting the model adapt to new sequences without retraining.
 
-[**→ Repository**](https://github.com/buiquangdat1710)
+**What's inside**
 
-</td>
-<td width="33%" valign="top">
+- All three variants — **MAC · MAG · MAL**
+- Differentiable inner-loop, end-to-end trainable
+- Persistent Memory: learnable token bank
+- Data-dependent α, θ, η coefficients
+- Installable package · MIT licensed
 
-### 🔍 &nbsp;Project Three
+<img src="https://img.shields.io/badge/PyTorch_%E2%89%A52.0-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Paper_Repro-8B5CF6?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MIT-06B6D4?style=flat-square&labelColor=0d1117"/>
 
-> One line on what problem it solves and the headline result.
-
-`LangChain` `RAG` `FAISS`
-
-[**→ Repository**](https://github.com/buiquangdat1710)
+[![Repo](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/buiquangdat1710/titans-torch)
+[![Paper](https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white&labelColor=0d1117)](https://arxiv.org/abs/2501.00663)
 
 </td>
 </tr>
@@ -189,9 +207,11 @@ class BuiQuangDat:
 
 | Work | Type | Description | Link |
 |:---|:---:|:---|:---:|
-| `model-name` | Model | What it does, in one sentence | [🤗](https://huggingface.co/Dat1710) |
+| `nexus-1.5b` | Model | 1.54B math-reasoning model trained with LPRO · 80.2% on MATH-500 | [🤗](https://huggingface.co/Dat1710/nexus-1.5b) |
+| `titans-torch` | Library | PyTorch implementation of the Titans architecture (MAC / MAG / MAL) | [🔗](https://github.com/buiquangdat1710/titans-torch) |
+<!-- TODO ─ add your AI Chronicle articles here, one row each:
 | `Article title` | Blog | Key idea in one sentence | [📖](https://aichronicle.org/) |
-| `Paper title` | Paper | Venue / year · main contribution | [📄](https://github.com/buiquangdat1710) |
+-->
 
 </details>
 
